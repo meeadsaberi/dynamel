@@ -14,10 +14,7 @@ The model is provided free of charge and "AS IS" WITHOUT ANY WARRANTY of any kin
 SOFTWARE AND HARDWARE REQUIREMENTS
 
 Advanced or Expert license of AIMSUN (https://www.aimsun.com/)
-Windows® Vista/7/8/8.1/10, Windows Server 2008 R2 and Windows Server 2012, 64-bit processor or Mac OS X 10.9, 10.10, 10.11, 10.12 64-bit processor
-Multi-core CPU faster than 3 GHz
-16 GB of RAM (32 GB recommended)
-Support for 1 GB data exchange
+Windows® Vista/7/8/8.1/10, Windows Server 2008 R2 and Windows Server 2012, 64-bit processor or Mac OS X 10.9, 10.10, 10.11, 10.12 64-bit processor, Multi-core CPU faster than 3 GHz, 16 GB of RAM (32 GB recommended), and support for 1 GB data exchange
 
 PUBLICATIONS
 
