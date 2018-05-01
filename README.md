@@ -3,13 +3,13 @@ A large-scale simulation-based dynamic traffic assignment model of Melbourne
 
 CONDITION OF USE
 
-DynaMel is distributed free of charge. We are a strong advocate of open science. We ask all users to register to DynaMel's users group and to mention explicitly the use of the model when publishing results and/or further development of the model using the provided reference below:
+DynaMel is distributed free of charge. We are a strong advocate of open science. We ask all users to mention explicitly the use of the model when publishing results and/or further development of the model using the provided references below:
 
-Shafiei, S. and Saberi M. (2017) Calibration and Validation of a Simulation-based Dynamic Traffic Assignment Model for a Large-Scale Congested Network using Multi-Source Traffic Data: A Case Study of Melbourne, Australia. (working paper)
+Shafiei, S., Gu Z., Saberi M. (2018) Calibration and Validation of a Simulation-based Dynamic Traffic Assignment Model for a Large-Scale Congested Network. Simulation Modelling Practice and Theory. In Press.
 
 DISCLAIMER 
 
-The model is provided free of charge and "AS IS" WITHOUT ANY WARRANTY of any kind. The implied warranties of merchantability, fitness for a particular purpose and non-infringment are expressly disclaimed. In no event will the developer (Meead Saberi) or his employer (Monash University) be liable to any party for any direct, indirect, special or other consequential damages for any use of the model and its variants including, without limitation, any lost profits, business interruption, loss of programs or other data on your information handling system or otherwise, even if we are expressly advised of the possibility of such damages.
+The model is provided free of charge and "AS IS" WITHOUT ANY WARRANTY of any kind. The implied warranties of merchantability, fitness for a particular purpose and non-infringment are expressly disclaimed. In no event will the developers and/or their employers be liable to any party for any direct, indirect, special or other consequential damages for any use of the model and its variants including, without limitation, any lost profits, business interruption, loss of programs or other data on your information handling system or otherwise, even if we are expressly advised of the possibility of such damages.
 
 SOFTWARE AND HARDWARE REQUIREMENTS
 
