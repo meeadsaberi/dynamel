@@ -3,9 +3,10 @@ A large-scale simulation-based dynamic traffic assignment model of Melbourne
 
 CONDITION OF USE
 
-DynaMel is distributed free of charge. We are a strong advocate of open science. We ask all users to mention explicitly the use of the model when publishing results and/or further development of the model using the provided references below:
+DynaMel is distributed free of charge. It is an open access model. We are a strong advocate of open science. We ask all users to mention explicitly the use of the model when publishing results and/or further development of the model using the provided reference below:
 
-Shafiei, S., Gu Z., Saberi M. (2018) Calibration and Validation of a Simulation-based Dynamic Traffic Assignment Model for a Large-Scale Congested Network. Simulation Modelling Practice and Theory. Elsevier. In Press.
+Shafiei, S., Gu Z., Saberi M. (2018) Calibration and Validation of a Simulation-based Dynamic Traffic Assignment Model for a Large-Scale Congested Network. Simulation Modelling Practice and Theory, 86, 169-186.
+https://www.sciencedirect.com/science/article/pii/S1569190X18300558
 
 DISCLAIMER 
 
