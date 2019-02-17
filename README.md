@@ -1,4 +1,4 @@
-# dynamel
+# DynaMel
 A large-scale simulation-based dynamic traffic assignment model of Melbourne
 
 CONDITION OF USE
@@ -25,3 +25,15 @@ Shafiei, S., Saberi M., Zockaie, A., Sarvi, M. (2017) A Sensitivity-Based Linear
 Shafiei, S., Saberi, M., Sarvi M. (2016) Application of an Exact Gradient Method to Estimate Dynamic Origin-Destination Demand for Melbourne Network. The 19th International IEEE Conference on Intelligent Transportation Systems (ITSC), Rio de Janeiro, November 1-4, 2016.
 
 Gu, Z., Saberi, M., Sarvi, M., Liu, Z. (2016) Calibration of Traffic Flow Fundamental Diagrams for Network Simulation Applications: A Two-Stage Clustering Approach. Proceedings of The 19th International IEEE Conference on Intelligent Transportation Systems (ITSC), Rio de Janeiro, November 1-4, 2016.
+
+DOWNLOAD
+
+The model consists of 55,719 links and 24,502 nodes. It simulates near 2.1 million vehicles in a 4-hour morning peak period 6-10 AM.
+
+version 10.07.2017
+Dynamel 1.0
+https://unsw-my.sharepoint.com/:u:/g/personal/z3524497_ad_unsw_edu_au/EWNe4dlyGPxBolSlzDBON0QBMBGiFL0XzCn4FVg3p2NXJw?e=cMmq85
+
+version 06.09.2018
+Dynamel 2.0
+https://unsw-my.sharepoint.com/:u:/g/personal/z3524497_ad_unsw_edu_au/EQBlJUPxVT1BrFLGmnrqcf0BL6ijmfTdJTIfWkLey2R3Dw?e=dt1PY7
